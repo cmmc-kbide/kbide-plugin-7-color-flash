@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-7-color-flash",
-  "title": "7-color-flash",
+  "title": "KY-034 7 Colour LED flash-module",
   "keywords": "7-color-flash, esp32, esp8266, arduino",
   "description": "7-color-flash plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-7-color-flash/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-7-color-flash/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }
